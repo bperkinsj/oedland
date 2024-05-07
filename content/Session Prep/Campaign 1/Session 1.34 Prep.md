@@ -1,0 +1,13 @@
+---
+tags:
+ - campaign1
+---
+## Blondie's beast gun hunt
+We're still in the middle of that, so we'll see how long it goes. If necessary, [[Wattan]] will intervene and drive the hydra away.
+
+## The Ruin of Echetmol
+Once the players have finished up with the hooktongue hydra, they have (probably) five days before the devils make it to Echetmol (309-07-25). The devils will destroy Echetmol upon reaching it.
+
+```ad-read-aloud
+The dark tide of devils coats the landscape, their disfigured and desiccated forms heaving to and fro, waves embodied of pain and suffering through which fearsome roving bastions plough. Overhead, the two airships, their hulls shaped of rusted, twisted metal, brood like two crows above a feast. As one of the great winged hulks bellows orders to the devils below, whip cracking to punctuate its words, a stream of them begin to wend their way towards Echetmol like ants returning to a nest. It picks over the remnants of the camp, sending bits and pieces back to the main column, but the main thrust of the ants continue their march towards the buttress. They swarm over Echetmol, looking for scraps and perhaps other signs of use. A cry is sent up and carried back through the stream, but before it even reaches the main column the hulk is hurtling itself towards Echetmol. The devils atop it scatter, a few unfortunates flung from the side by the buffeting winds and lashing wings of the hulk's landing. The great figure surveys its perch, seeming to muse over something, before it launches itself back into the air and bellows further orders. One of the airships slowly pivots to face Echetmol, and you see atop it a spotlight-like structure that nearly crowds out the deck. Its face begins to glow like super-heated iron. A hushed silence falls over the mass of devils, an air of expectation palpable, the mood approaching a near-religious reverence for the event about to occur. With a roar that must be deafening at close range, and a brilliant flare of light, a beam of energy spits from the structure and clips Echetmol on its side, sending shards of rock flying. Slowly, the beam hews from right to left, cutting an agonizingly slow but sure path through the monolith's base. As it hits the center, the structure begins to crumble under its own impossible weight, and the beam does not even need to clear the other side before the whole thing tilts over, splitting apart, solid and super-heated stone launched for hundreds of meters, a plume of dust jettisoning upwards. Cheers go up as it falls, as fragments rain down around it, even as some few devils are split open or crushed or melted by debris. The dust settles, revealing a 
+```

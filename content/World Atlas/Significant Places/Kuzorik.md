@@ -1,0 +1,6 @@
+---
+tags:
+  - location
+  - settlement
+  - natives
+---

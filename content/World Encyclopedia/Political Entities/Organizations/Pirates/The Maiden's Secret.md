@@ -1,0 +1,1 @@
+A pirate ship captained by [[Captain Twoswords]]. The ship is largely composed of members of the LGBTQ community, who have all found a place where they can express themselves and live outside of societal norms in both a political and individual sense. 

@@ -1,0 +1,5 @@
+---
+tags:
+---
+# Avarian-Native War
+Across the south-central coast of Oedland, a brutal war is being waged by the [[Reino de Avaria|Kingdom of Avaria]]against the numerous tribes that inhabit those lands. At the establishment of the first Avarian settlement, later to be called [[Amanero]], tentative contact was made between Avaria and the [[Senyéx̱]] (sen-YECH, similar to German "ach"), with diplomatic overtures made by both sides involving gifts and welcome rituals. Thus a nascent relationship was formed that gradually grew into one of greater economic import, with many native people offering their services as guides to Avarians in exchange for novel trade goods including clothing, foodstuffs, and weapons. Unfortunately, this peace was short-lived, as four years after landing upon new shores, a pair of Avarian explorers, Miguel Valdovinos Iglasio and Izan Corredor de Soledo Inita, became separated from their guide, Tsípem, and stumbled upon a deposit of a bizarre metal. Christening it "morabilla" for its strange purplish sheen, they
